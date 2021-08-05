@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head><h1>First Project</h1></head>
+<title>First Project</title>
+
+<body>
+    <p>Few things I enjoy doing are:</p>
+    <ul>
+        <li>Watching TV</li>
+        <li>Finding the best Asian Restaurants in town</li>
+        <li>Singing in the car</li>
+        <li>Having deep talks with my friends about life</li>
+    </ul>
+
+   <p>I enjoy spending time alone but I also like to connect with others and have deep conversations. It's very hard to do that when everything has changed due to COVID. I saw a lot of negative changes but something I really like about technology is that it keeps evolving and with more people out there learning code, there will be more ways to connect with people around the world.</p>
+        
+    </ul>
+</body>
+
+</html>
